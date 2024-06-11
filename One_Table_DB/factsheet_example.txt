@@ -1,0 +1,17 @@
+This captivating dataset offers a treasure trove of information, revealing the fascinating connections between symptoms, demographics, and health indicators. Delve into the rich tapestry of fever, cough, fatigue, and difficulty breathing, intertwined with age, gender, blood pressure, and cholesterol levels. Whether you're a medical researcher, healthcare professional, or data enthusiast, this dataset holds the key to unlocking profound insights. Explore the hidden patterns, uncover unique symptom profiles, and embark on a captivating journey through the world of medical conditions. Get ready to revolutionize healthcare understanding with our dataset.
+
+The columns are Disease VARCHAR(512), Fever VARCHAR(25), Cough VARCHAR(25), Fatigue VARCHAR(25), DifficultyBreathing VARCHAR(25), Age INT, Gender VARCHAR(25), BloodPressure VARCHAR(25), CholesterolLevel VARCHAR(25), OutcomeVariable VARCHAR(25).
+Fever, Cough, Fatigue and DifficultyBreathing are potential symptoms which the patients are experiencing. 
+
+Columns and Usage:
+
+Disease: The name of the disease or medical condition.
+Fever: Indicates whether the patient has a fever (Yes/No).
+Cough: Indicates whether the patient has a cough (Yes/No).
+Fatigue: Indicates whether the patient experiences fatigue (Yes/No).
+Difficulty Breathing: Indicates whether the patient has difficulty breathing (Yes/No).
+Age: The age of the patient in years.
+Gender: The gender of the patient (Male/Female).
+Blood Pressure: The blood pressure level of the patient (Normal/High).
+Cholesterol Level: The cholesterol level of the patient (Normal/High).
+Outcome Variable: The outcome variable indicating the result of the diagnosis or assessment for the specific disease (Positive/Negative).

@@ -1,0 +1,28 @@
+There are 4 tables: PatientContactDetails, PatientDiseaseSymptom, DoctorDetails, PatientAppointmentDetails. 
+
+PatientContactDetails's Columns: PatientID (Primary Key) is in PatientContactDetails: A unique identifier for each patient. Email is in PatientContactDetails: The email address of the patient. IPAddress is in PatientContactDetails: The IP address associated with the patient.
+
+PatientDiseaseSymptom's Columns: PatientID (Primary Key, Foreign Key) is in PatientDiseaseSymptom: Identifies the patient associated with the disease information. Disease is in PatientDiseaseSymptom: The name of the disease or medical condition. Fever is in PatientDiseaseSymptom: Indicates whether the patient has a fever (Yes/No). Cough is in PatientDiseaseSymptom: Indicates whether the patient has a cough (Yes/No). Fatigue is in PatientDiseaseSymptom: Indicates whether the patient experiences fatigue (Yes/No). Difficulty Breathing is in PatientDiseaseSymptom: Indicates whether the patient has difficulty breathing (Yes/No). Age is in PatientDiseaseSymptom: The age of the patient in years. Gender is in PatientDiseaseSymptom: The gender of the patient (Male/Female). Blood Pressure is in PatientDiseaseSymptom: The blood pressure level of the patient (Normal/High). Cholesterol Level is in PatientDiseaseSymptom: The cholesterol level of the patient (Normal/High). Outcome Variable is in PatientDiseaseSymptom: The outcome variable indicating the result of the diagnosis or assessment for the specific disease (Positive/Negative).
+
+DoctorDetails's Columns: DoctorID (Primary Key) is in DoctorDetails: A unique identifier for each doctor. SocialSecurityNo is in DoctorDetails: The social  security number of the doctor.
+
+PatientAppointmentDetails's Columns: PatientID (Foreign Key) is in PatientAppointmentDetails: Identifies the patient associated with the appointment. DiagnosisDate is in PatientAppointmentDetails: The date of the diagnosis appointment. DoctorID (Foreign Key) is in PatientAppointmentDetails: Identifies the doctor conducting the appointment. DiagnosisCode is in PatientAppointmentDetails: A code representing the diagnosis given during the appointment.
+
+ALL Column Descriptions:
+PatientID: A unique identifier for patients stored as a string of characters.
+Email: A string representing the email address of the patient.
+IPAddress: A string representing the IP address associated with the patient.
+Disease: The name of the disease or medical condition.
+Fever: Indicates whether the patient has a fever (Yes/No).
+Cough: Indicates whether the patient has a cough (Yes/No).
+Fatigue: Indicates whether the patient experiences fatigue (Yes/No).
+Difficulty Breathing: Indicates whether the patient has difficulty breathing (Yes/No).
+Age: The age of the patient in years.
+Gender: The gender of the patient (Male/Female).
+Blood Pressure: The blood pressure level of the patient (Normal/High).
+Cholesterol Level: The cholesterol level of the patient (Normal/High).
+Outcome Variable: The outcome variable indicating the result of the diagnosis or assessment for the specific disease (Positive/Negative).
+DoctorID: A unique identifier for doctors stored as a string of characters.
+SocialSecurityNo: A string representing the social security number of the doctor.
+DiagnosisDate: Date and time of the diagnosis appointment.
+DiagnosisCode: A code representing the diagnosis given during the appointment.

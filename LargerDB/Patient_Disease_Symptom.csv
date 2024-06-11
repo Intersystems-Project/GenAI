@@ -1,0 +1,350 @@
+PatientID,Disease,Fever,Cough,Fatigue,DifficultyBreathing,Age,Gender,BloodPressure,CholesterolLevel,OutcomeVariable
+8FJ1DY8EK59,Influenza,Yes,No,Yes,Yes,19,Female,Low,Normal,Positive
+2H95UU4EA28,Common Cold,No,Yes,Yes,No,25,Female,Normal,Normal,Negative
+1Q30XX3TJ43,Eczema,No,Yes,Yes,No,25,Female,Normal,Normal,Negative
+7TJ3NN7CC12,Asthma,Yes,Yes,No,Yes,25,Male,Normal,Normal,Positive
+2WC0T19HD84,Asthma,Yes,Yes,No,Yes,25,Male,Normal,Normal,Positive
+7FG4GW4JD13,Eczema,Yes,No,No,No,25,Female,Normal,Normal,Positive
+4WF0P32NP77,Influenza,Yes,Yes,Yes,Yes,25,Female,Normal,Normal,Positive
+4VJ4WN5KY67,Influenza,Yes,Yes,Yes,Yes,25,Female,Normal,Normal,Positive
+7RG0GW8QU89,Hyperthyroidism,No,Yes,No,No,28,Female,Normal,Normal,Negative
+9PV0HF4AQ29,Hyperthyroidism,No,Yes,No,No,28,Female,Normal,Normal,Negative
+7K35NE3UY53,Asthma,Yes,No,No,Yes,28,Male,High,Normal,Positive
+3P84GA8AE00,Allergic Rhinitis,No,Yes,Yes,No,29,Female,Normal,Low,Negative
+6XF2TC3ED64,Anxiety Disorders,No,Yes,No,No,29,Female,Normal,High,Negative
+5QA1YX2VV11,Common Cold,No,No,No,No,29,Female,Low,Normal,Negative
+3A18W79QD65,Diabetes,No,No,No,No,29,Male,Low,Normal,Negative
+7R44J39RA29,Gastroenteritis,No,Yes,No,No,29,Female,Normal,Normal,Negative
+3J10FG9XY47,Pancreatitis,Yes,No,No,No,29,Female,High,Normal,Negative
+8T55YN7YV65,Rheumatoid Arthritis,No,Yes,Yes,Yes,29,Female,High,High,Negative
+6KV6FU1QR57,Depression,Yes,Yes,Yes,Yes,29,Male,High,Normal,Positive
+4GG2D86EX47,Liver Cancer,Yes,Yes,Yes,Yes,29,Female,Normal,Normal,Positive
+8N04A12VR19,Stroke,Yes,Yes,Yes,Yes,29,Female,Normal,Normal,Positive
+7CR1D81VX78,Urinary Tract Infection,Yes,Yes,Yes,No,29,Male,High,High,Positive
+4ME1JY6PH97,Dengue Fever,Yes,No,Yes,No,30,Female,Normal,Normal,Negative
+3UQ8M54KX49,Dengue Fever,Yes,No,Yes,No,30,Female,Normal,Normal,Negative
+3RQ4TT7XG22,Eczema,No,Yes,Yes,No,30,Male,High,High,Negative
+1UD6RY0WN45,Gastroenteritis,Yes,Yes,Yes,No,30,Male,High,High,Negative
+9Q28JQ3AV34,Hepatitis,Yes,Yes,Yes,Yes,30,Male,High,Normal,Negative
+5V45GY7QY85,Kidney Cancer,No,No,Yes,No,30,Male,Normal,Normal,Negative
+8Q31D07YH94,Migraine,Yes,No,No,No,30,Female,Normal,Normal,Negative
+6C46GV9NU28,Migraine,No,Yes,Yes,No,30,Female,Normal,Normal,Negative
+5TK9KM8DQ49,Muscular Dystrophy,No,No,Yes,No,30,Male,High,High,Negative
+5Y82A06UG52,Sinusitis,No,Yes,Yes,No,30,Male,Normal,Normal,Negative
+7Y44K01RE44,Ulcerative Colitis,Yes,Yes,No,No,30,Female,Normal,Normal,Negative
+7X14R43FG16,Ulcerative Colitis,No,Yes,Yes,No,30,Female,Normal,Normal,Negative
+9R47X49JN53,Asthma,Yes,Yes,No,Yes,30,Female,Normal,Normal,Positive
+9QM4QE7MT01,Asthma,Yes,Yes,No,Yes,30,Female,Normal,Normal,Positive
+1K44JH6JD58,Asthma,Yes,Yes,Yes,Yes,30,Female,Normal,Normal,Positive
+7DQ5M78GN71,Bipolar Disorder,No,No,Yes,No,30,Female,High,High,Positive
+6R70NH1XU79,Bronchitis,Yes,Yes,No,Yes,30,Female,Low,Normal,Positive
+6QD7NR3VE84,Bronchitis,Yes,Yes,Yes,Yes,30,Male,High,High,Positive
+4KC5K75TC91,Bronchitis,Yes,Yes,Yes,Yes,30,Male,High,High,Positive
+3PA3F53QH22,Cerebral Palsy,No,No,Yes,Yes,30,Female,Normal,Normal,Positive
+7QW6PA0EF61,Colorectal Cancer,No,No,Yes,No,30,Female,Normal,High,Positive
+4GN2T96GH02,Eczema,Yes,No,No,No,30,Male,High,High,Positive
+1T00M82VV19,Hypertensive Heart Disease,No,No,Yes,No,30,Female,High,High,Positive
+2G47TC6GE99,Influenza,Yes,Yes,Yes,No,30,Male,High,Normal,Positive
+2F89KR5JY36,Influenza,Yes,Yes,Yes,Yes,30,Female,Normal,Normal,Positive
+3QN7D15VY17,Multiple Sclerosis,No,No,Yes,No,30,Female,High,High,Positive
+4K13WJ5GQ65,Myocardial Infarction (Heart...,Yes,Yes,Yes,Yes,30,Female,High,High,Positive
+3V15Y10NN79,Urinary Tract Infection (UTI),Yes,No,No,No,30,Female,Normal,Normal,Positive
+1AC0HY8NY47,Asthma,No,No,No,Yes,31,Male,Normal,Low,Negative
+1WU2NE3PU54,Osteoporosis,No,No,No,Yes,31,Male,Low,Normal,Negative
+5C11P63VF14,Common Cold,Yes,No,Yes,Yes,31,Male,High,High,Positive
+5YR7WH6FE97,Migraine,Yes,No,No,No,31,Female,Normal,Normal,Positive
+3YW9DY2PC61,Pneumonia,Yes,No,Yes,Yes,32,Female,High,Normal,Positive
+5F02ND0XU77,Allergic Rhinitis,No,No,Yes,No,35,Female,Normal,Low,Negative
+9JQ5AQ2DC56,Asthma,No,Yes,Yes,Yes,35,Female,Normal,High,Negative
+5Q41NA3RR97,Asthma,Yes,Yes,Yes,Yes,35,Female,Normal,Normal,Negative
+4GW3U86UD09,Asthma,No,Yes,Yes,Yes,35,Female,High,Normal,Negative
+2TX0G90EH17,Asthma,No,Yes,Yes,Yes,35,Female,High,Normal,Negative
+9D55VE3NC31,Atherosclerosis,No,No,Yes,No,35,Male,Normal,Normal,Negative
+1YF7U29EK49,Chronic Obstructive Pulmonary...,Yes,Yes,Yes,Yes,35,Male,Normal,Normal,Negative
+1TR4NQ7YM99,Common Cold,Yes,Yes,Yes,No,35,Male,High,Normal,Negative
+3VW0NW2MF59,Eczema,No,Yes,No,No,35,Male,High,Normal,Negative
+7VH9DA8EE80,Epilepsy,No,No,Yes,No,35,Male,High,High,Negative
+8M92UT2AQ47,Hypertension,Yes,Yes,Yes,No,35,Female,High,Normal,Negative
+3CG4VX8AR92,Hyperthyroidism,Yes,Yes,Yes,No,35,Female,Normal,Normal,Negative
+7VT5YR8YW33,Obsessive-Compulsive Disorde...,No,No,Yes,No,35,Male,Normal,Normal,Negative
+9W55TR6PH91,Pneumonia,Yes,Yes,Yes,Yes,35,Female,Normal,Normal,Negative
+4E88UW4GC23,Pneumonia,Yes,Yes,Yes,Yes,35,Female,Normal,Normal,Negative
+8EC2AU6JV33,Psoriasis,Yes,No,No,No,35,Female,Normal,Low,Negative
+1C65J66QD62,Psoriasis,No,Yes,Yes,No,35,Female,Normal,Low,Negative
+1Y77EW7AM47,Rubella,Yes,No,Yes,No,35,Female,High,Normal,Negative
+9UW7EV9TU57,Rubella,Yes,No,Yes,No,35,Female,High,Normal,Negative
+5Y69UX4XU24,Urinary Tract Infection (UTI),No,Yes,Yes,No,35,Male,High,High,Negative
+8WP9CJ1KQ43,Asthma,Yes,Yes,No,Yes,35,Male,Normal,Normal,Positive
+5KA3DN9PQ50,Asthma,Yes,Yes,No,Yes,35,Male,Normal,Normal,Positive
+2AR5TF2XU41,Cirrhosis,No,No,Yes,No,35,Female,Normal,High,Positive
+1U62XY5KA98,Conjunctivitis (Pink Eye),No,Yes,No,No,35,Female,High,High,Positive
+1G23K55XX88,Depression,No,No,Yes,No,35,Female,Normal,High,Positive
+5RN1CK4KG60,Gastroenteritis,Yes,No,Yes,Yes,35,Male,Low,High,Positive
+4J40WD5KE74,Hyperthyroidism,Yes,Yes,Yes,No,35,Male,High,High,Positive
+6H57KJ1RN29,Hyperthyroidism,Yes,Yes,Yes,No,35,Male,High,High,Positive
+6RJ8JE4HE86,Kidney Cancer,No,No,Yes,No,35,Male,High,High,Positive
+8TY5J92EX38,Liver Cancer,No,No,Yes,No,35,Female,High,High,Positive
+6T71WR3TE63,Liver Disease,No,No,Yes,No,35,Male,High,High,Positive
+5Q58T30FE96,Malaria,Yes,No,No,No,35,Male,High,High,Positive
+5KK7AC4UH98,Malaria,Yes,No,No,No,35,Male,High,High,Positive
+1D63NU1KY25,Migraine,No,Yes,Yes,No,35,Male,High,High,Positive
+5J14NF0EF63,Migraine,Yes,No,No,No,35,Male,High,High,Positive
+9PR8RV2FK67,Pancreatitis,No,No,Yes,No,35,Male,Normal,High,Positive
+7GT2XC9PG39,Rheumatoid Arthritis,Yes,Yes,Yes,No,35,Male,Normal,Low,Positive
+1CX1RP0NK17,Rheumatoid Arthritis,No,No,Yes,No,35,Female,Normal,Low,Positive
+7V01RR9AN04,Spina Bifida,No,No,Yes,No,35,Female,Normal,Normal,Positive
+5N69P07AE78,Ulcerative Colitis,No,No,Yes,No,35,Male,High,High,Positive
+1P48G54XV25,Ulcerative Colitis,Yes,No,No,No,35,Male,High,High,Positive
+1RN0QQ1TU75,Urinary Tract Infection,Yes,No,Yes,No,35,Female,Normal,High,Positive
+5JP5TD2JW56,Allergic Rhinitis,No,Yes,No,No,38,Female,Low,Normal,Negative
+5HH3F32FM06,Depression,No,No,No,No,38,Female,Normal,High,Negative
+1RJ3E06RW78,Gastroenteritis,No,No,No,No,38,Male,Normal,Low,Negative
+3W92VR8VX37,Influenza,No,No,No,No,38,Male,Normal,Normal,Negative
+2UP8JC6XW73,Kidney Disease,No,No,Yes,No,38,Female,Low,Normal,Negative
+6H88RP6KE70,Liver Cancer,Yes,Yes,No,No,38,Female,High,Normal,Negative
+4W34WC2VC42,Liver Disease,No,Yes,No,Yes,38,Male,Low,Normal,Negative
+5HU3F54TD09,Osteoporosis,No,Yes,No,No,38,Female,Normal,High,Negative
+8UP0CX8WU30,Stroke,Yes,Yes,No,No,38,Female,High,Normal,Negative
+8RX9JR8VC94,Anxiety Disorders,Yes,No,Yes,Yes,38,Male,High,High,Positive
+1FE0E13XG79,Diabetes,Yes,No,Yes,Yes,38,Male,High,Low,Positive
+1E47QX4CT79,Migraine,Yes,Yes,No,No,38,Male,High,High,Positive
+4M76RA9HP88,Osteoarthritis,Yes,Yes,Yes,No,38,Male,High,High,Positive
+9U93YQ8KX17,Pneumonia,Yes,Yes,Yes,Yes,38,Male,Normal,Normal,Positive
+7PX8R97PK54,Klinefelter Syndrome,No,No,Yes,No,39,Female,Normal,Normal,Positive
+1QT4UF2ER12,Acne,No,No,Yes,No,40,Male,Normal,Normal,Negative
+3FR3AU2DN27,Brain Tumor,No,No,Yes,No,40,Male,Normal,Normal,Negative
+9VU8RX0JG85,Bronchitis,No,Yes,No,Yes,40,Female,Normal,Normal,Negative
+7A16H28FF63,Cystic Fibrosis,No,No,Yes,Yes,40,Male,High,High,Negative
+6VR1F96JV05,Diabetes,Yes,No,No,No,40,Female,High,High,Negative
+8XR8NQ3XR46,Glaucoma,No,No,Yes,No,40,Male,High,Normal,Negative
+8E26KE5RY26,Osteoarthritis,No,No,Yes,No,40,Male,High,Normal,Negative
+6VT8AK0PA89,Rabies,Yes,Yes,No,No,40,Female,High,Normal,Negative
+2CT5GD2GJ99,Rabies,Yes,Yes,No,No,40,Female,High,Normal,Negative
+8K73FP3TH66,Asthma,Yes,No,Yes,No,40,Male,Low,Normal,Positive
+6P13J65HF86,Asthma,Yes,Yes,No,Yes,40,Female,Normal,Normal,Positive
+5J69J81FQ42,Asthma,Yes,Yes,No,Yes,40,Female,Normal,Normal,Positive
+5CA1R19KK50,Asthma,No,No,Yes,Yes,40,Male,High,High,Positive
+1NR1K16NQ46,Asthma,Yes,No,Yes,Yes,40,Male,Normal,High,Positive
+1HV9JK5MY67,Asthma,Yes,No,Yes,Yes,40,Male,Normal,High,Positive
+3ER7F20TF21,Chickenpox,No,Yes,No,No,40,Male,Normal,High,Positive
+5CT5GQ0PV39,Chickenpox,No,Yes,No,No,40,Male,Normal,High,Positive
+7YF2M64AW13,Coronary Artery Disease,No,No,Yes,No,40,Female,High,High,Positive
+2K62QJ6AC87,"Eating Disorders (Anorexia,...",No,No,Yes,No,40,Female,High,High,Positive
+8FR3AR3TH28,Fibromyalgia,No,No,Yes,No,40,Female,High,High,Positive
+8WP3UW9DA70,Gastroenteritis,Yes,Yes,Yes,No,40,Male,High,High,Positive
+7H75UF9TP93,Hemophilia,No,No,Yes,No,40,Female,Normal,Normal,Positive
+3NV0MA9NU99,Hyperthyroidism,No,No,Yes,No,40,Male,High,High,Positive
+6EP5U01VQ90,Hypoglycemia,No,No,Yes,No,40,Female,High,High,Positive
+2CN0WP9UT53,Lymphoma,No,Yes,No,No,40,Female,Normal,High,Positive
+3MH8FE8CT78,Pneumonia,Yes,Yes,Yes,Yes,40,Female,Normal,High,Positive
+2D53V48XW30,Psoriasis,No,Yes,Yes,No,40,Male,High,Normal,Positive
+3MY1A35VM31,Psoriasis,Yes,No,No,No,40,Male,High,Normal,Positive
+7VW5NX4JD85,Psoriasis,No,Yes,No,No,40,Female,Normal,High,Positive
+6PM1Y28NJ19,Tuberculosis,Yes,Yes,Yes,Yes,40,Male,High,High,Positive
+8FK5KE6QA22,Tuberculosis,Yes,Yes,Yes,Yes,40,Male,High,High,Positive
+3QX5T22QX19,Anxiety Disorders,No,No,No,No,42,Male,Low,Normal,Negative
+5U52JN0RX53,Common Cold,Yes,Yes,No,No,42,Female,High,High,Negative
+3YF7F22CY76,Depression,Yes,No,No,Yes,42,Male,High,Normal,Negative
+6XA3V46QK61,Influenza,No,Yes,No,No,42,Female,Normal,High,Negative
+4M91EW7VD30,Kidney Cancer,Yes,No,No,No,42,Female,Normal,Normal,Negative
+3DJ6MG1MW45,Liver Cancer,Yes,No,Yes,Yes,42,Male,Normal,Low,Negative
+5XF1QT9UW92,Liver Disease,Yes,No,No,Yes,42,Female,Normal,Normal,Negative
+4WD3A67PQ08,Lung Cancer,Yes,No,Yes,Yes,42,Male,Normal,Low,Negative
+2K94QE0QJ33,Migraine,Yes,Yes,Yes,No,42,Male,High,High,Negative
+3RD0V47EG45,Osteoarthritis,No,No,Yes,No,42,Male,Normal,Low,Negative
+9QQ6PA4QM71,Stroke,Yes,No,Yes,No,42,Male,Normal,Low,Negative
+8RQ0RD4MJ29,Urinary Tract Infection,No,Yes,Yes,Yes,42,Female,Normal,Low,Negative
+5A76KW3DV92,Diabetes,Yes,Yes,Yes,No,42,Male,High,Normal,Positive
+1Q06AF1YR08,Hypothyroidism,Yes,Yes,Yes,No,42,Female,High,High,Positive
+5YP9XK1VT51,Hypothyroidism,Yes,Yes,Yes,No,42,Female,High,High,Positive
+3FP9U76HF03,Kidney Disease,Yes,No,Yes,No,42,Female,High,Low,Positive
+5UN2YD4UG52,Pneumonia,No,Yes,Yes,Yes,43,Female,High,Normal,Positive
+4WF9K74QR86,Allergic Rhinitis,No,Yes,Yes,No,45,Male,High,Normal,Negative
+1AH7XY0KY03,Autism Spectrum Disorder (ASD),No,No,Yes,No,45,Male,Normal,Normal,Negative
+8W63WF8YD44,Crohn's Disease,Yes,No,Yes,No,45,Male,High,Normal,Negative
+7PE5YY9XK09,Hepatitis,Yes,No,Yes,No,45,Female,High,High,Negative
+8XW0X59JG97,Hepatitis,Yes,No,Yes,No,45,Female,High,High,Negative
+8N42QX4RD21,Hyperglycemia,No,No,Yes,No,45,Male,Normal,Normal,Negative
+3GP6H56CV31,Kidney Cancer,No,Yes,Yes,Yes,45,Male,Normal,Low,Negative
+5K24E51HD07,Kidney Disease,Yes,Yes,No,No,45,Male,Normal,High,Negative
+1MY8ND6GA35,Melanoma,Yes,No,Yes,No,45,Male,High,Normal,Negative
+4JG5VP7WN52,Migraine,No,No,No,No,45,Female,Low,Normal,Negative
+1U38R72DC12,Ovarian Cancer,No,No,Yes,No,45,Male,Normal,Normal,Negative
+5UY2JU8MH24,Pancreatitis,No,Yes,Yes,Yes,45,Male,Normal,Low,Negative
+5PR1QM7XX84,Rheumatoid Arthritis,Yes,No,No,No,45,Male,Normal,Normal,Negative
+9YU8E94RP71,Stroke,No,No,Yes,No,45,Male,Normal,Normal,Negative
+6PT4TK6HK87,Turner Syndrome,No,No,Yes,No,45,Male,High,High,Negative
+7M04AQ9AY89,Turner Syndrome,No,No,Yes,No,45,Male,High,High,Negative
+9EH4UC5KP61,Urinary Tract Infection,No,No,No,No,45,Female,Low,Normal,Negative
+6RD7UK7PH75,Zika Virus,No,Yes,Yes,No,45,Female,High,High,Negative
+5U22UP5WX43,Zika Virus,No,Yes,Yes,No,45,Female,High,High,Negative
+9MA0WD9NF15,Allergic Rhinitis,Yes,Yes,Yes,No,45,Male,High,Normal,Positive
+9RC9MU1PM66,Anxiety Disorders,Yes,Yes,Yes,No,45,Male,High,Normal,Positive
+1XC2YA8AG95,Asthma,Yes,Yes,No,Yes,45,Male,Normal,Normal,Positive
+8FX4UQ4KD27,Asthma,Yes,Yes,No,Yes,45,Male,Normal,Normal,Positive
+2K92J25DJ59,Cataracts,No,No,Yes,No,45,Female,Normal,High,Positive
+2CD7YT3RM62,Crohn's Disease,No,No,Yes,No,45,Female,High,High,Positive
+3CG7AX8JK12,Crohn's Disease,Yes,Yes,Yes,No,45,Female,High,High,Positive
+4YN4F76CV56,Depression,No,No,Yes,No,45,Female,High,High,Positive
+4PG9MF8AW07,Diabetes,Yes,No,Yes,No,45,Female,High,High,Positive
+7UG5XD4TV65,Diabetes,No,Yes,Yes,No,45,Male,Normal,High,Positive
+9EG9F75AK28,Hypertension,Yes,No,Yes,No,45,Male,Normal,High,Positive
+7N69TU5GG17,Hypothyroidism,No,No,Yes,No,45,Female,High,High,Positive
+5TJ7MV6CN09,Liver Disease,Yes,Yes,Yes,No,45,Female,Normal,High,Positive
+2YJ9E15CQ18,Multiple Sclerosis,Yes,No,No,No,45,Female,High,High,Positive
+3TV8EY5WY98,Multiple Sclerosis,Yes,No,No,No,45,Female,High,High,Positive
+2UQ2HF3TD26,Osteoarthritis,Yes,No,Yes,Yes,45,Male,High,Normal,Positive
+4JX8YV8JJ81,Osteoporosis,Yes,Yes,Yes,No,45,Female,Normal,High,Positive
+2WM4FJ1DT41,Pneumocystis Pneumonia (PCP),Yes,Yes,Yes,No,45,Female,High,High,Positive
+4P54KU7GC38,Pneumonia,Yes,Yes,Yes,Yes,45,Male,High,High,Positive
+5DR9F34DQ67,Scoliosis,No,No,No,No,45,Female,High,High,Positive
+2PW7G35VN88,Sickle Cell Anemia,No,No,Yes,No,45,Female,Normal,Normal,Positive
+3VP1K81RA50,Tetanus,No,No,Yes,No,45,Male,Normal,High,Positive
+1DK9XE6KR72,Tetanus,No,No,Yes,No,45,Male,Normal,High,Positive
+9E35EF9AJ96,Hypertension,No,No,No,No,48,Female,Low,High,Negative
+5GD4CG7YN46,Hypothyroidism,No,No,Yes,No,48,Male,Normal,High,Negative
+8NK7YH4HU31,Hypothyroidism,No,No,Yes,No,48,Male,Normal,High,Negative
+7HR9WD7VA12,Allergic Rhinitis,Yes,No,No,No,50,Male,High,High,Negative
+5A40YQ2DT39,Anemia,No,No,Yes,No,50,Male,Normal,Normal,Negative
+1NK3DN2HV23,Anxiety Disorders,No,No,Yes,No,50,Male,Normal,Normal,Negative
+2A70JJ2XG94,Cholera,Yes,No,Yes,Yes,50,Female,High,High,Negative
+2EK9NY5YF61,Cholera,Yes,No,Yes,Yes,50,Female,High,High,Negative
+2FP4P25PE04,Crohn's Disease,Yes,Yes,Yes,No,50,Male,Normal,High,Negative
+8D55WC1YP86,Crohn's Disease,No,No,Yes,No,50,Male,Normal,High,Negative
+3G40JW5JN42,Depression,No,Yes,Yes,No,50,Female,Low,Low,Negative
+6K08CC0JA05,Diabetes,No,Yes,No,No,50,Male,Normal,High,Negative
+5HQ9K04UU50,Endometriosis,Yes,No,No,No,50,Male,High,Normal,Negative
+5RJ2JF5RP17,Hypertension,No,Yes,No,No,50,Female,Normal,Low,Negative
+3N34UJ8EU17,Hypothyroidism,Yes,Yes,Yes,No,50,Male,Normal,High,Negative
+8M42W66HF43,Kidney Cancer,No,Yes,No,No,50,Male,Low,High,Negative
+6M36HD3KV75,Kidney Disease,No,Yes,No,Yes,50,Male,Normal,Normal,Negative
+5G15Y95AW92,Pancreatitis,No,Yes,No,No,50,Male,Low,High,Negative
+8HT5YV2KP24,Rheumatoid Arthritis,No,Yes,No,No,50,Female,Low,Normal,Negative
+5KV1MX7PQ82,Sepsis,Yes,Yes,Yes,No,50,Male,Normal,Normal,Negative
+3V97E25CA60,Sleep Apnea,Yes,No,Yes,Yes,50,Male,High,High,Negative
+4VW7T65DA48,Urinary Tract Infection,Yes,Yes,No,Yes,50,Male,High,Normal,Negative
+3P77VJ9TD91,Asthma,Yes,Yes,Yes,Yes,50,Female,Normal,High,Positive
+8M90DP0GP83,Bronchitis,Yes,Yes,Yes,Yes,50,Male,High,High,Positive
+9JV2XT6NE43,Down Syndrome,No,No,Yes,No,50,Female,High,High,Positive
+3AG7KU6WG93,Ebola Virus,Yes,Yes,Yes,Yes,50,Male,Normal,Normal,Positive
+9M79XD9MQ70,Ebola Virus,Yes,Yes,Yes,Yes,50,Male,Normal,Normal,Positive
+1GQ7PA0PU47,Eczema,No,Yes,No,No,50,Female,High,High,Positive
+1GP7DY1EP65,Gastroenteritis,Yes,Yes,Yes,Yes,50,Female,High,Normal,Positive
+9D51HY8VV53,Klinefelter Syndrome,No,No,Yes,No,50,Female,Normal,Normal,Positive
+9R98PR8YF48,Liver Cancer,No,Yes,Yes,Yes,50,Male,High,High,Positive
+3QX0RY0XP27,Lyme Disease,Yes,No,No,No,50,Male,Normal,High,Positive
+3DY1K65AG29,Lyme Disease,Yes,No,No,No,50,Male,Normal,High,Positive
+1YX8DG9UY96,Pancreatic Cancer,No,No,Yes,No,50,Female,High,High,Positive
+4EN3UQ4VF28,Pneumothorax,No,No,Yes,Yes,50,Female,High,High,Positive
+8UJ4R47GA59,Stroke,No,Yes,Yes,Yes,50,Male,High,High,Positive
+3N55WW1FR12,Ulcerative Colitis,No,Yes,Yes,No,50,Female,Normal,High,Positive
+6T84VT6TW74,Hypertension,Yes,Yes,No,No,52,Male,Normal,Low,Negative
+7TJ2AH0JM25,Multiple Sclerosis,No,Yes,Yes,No,52,Male,Normal,Normal,Negative
+3D82DC0XV23,Multiple Sclerosis,No,Yes,Yes,No,52,Male,Normal,Normal,Negative
+9QK5PD5HY97,Appendicitis,Yes,No,Yes,No,55,Male,Normal,Normal,Negative
+4K36EF5AM12,Bronchitis,No,No,Yes,Yes,55,Male,High,High,Negative
+9YN7QH5HR38,Bronchitis,Yes,Yes,Yes,Yes,55,Male,High,Normal,Negative
+4NJ8Q50UQ40,Common Cold,Yes,No,Yes,Yes,55,Male,Normal,Low,Negative
+8G46P42HR60,Diabetes,No,Yes,No,No,55,Female,Normal,High,Negative
+5VX3QG1GD43,Esophageal Cancer,No,No,Yes,No,55,Male,Normal,Normal,Negative
+5WJ8Y47MT28,HIV/AIDS,Yes,No,No,No,55,Female,High,High,Negative
+7JC3U32DY65,HIV/AIDS,Yes,No,No,No,55,Female,High,High,Negative
+9MJ1NG7RD61,Hypertension,No,Yes,No,No,55,Female,Normal,Low,Negative
+6TU0X62FK60,Liver Disease,No,Yes,Yes,No,55,Male,High,Low,Negative
+6PE9WW3GG78,Marfan Syndrome,No,No,Yes,No,55,Male,High,High,Negative
+5D09TR3CF52,Migraine,No,Yes,Yes,Yes,55,Female,Normal,Low,Negative
+8XA8RM4TX94,Osteoporosis,No,No,Yes,No,55,Male,High,Normal,Negative
+7QR3YM8VU31,Parkinson's Disease,No,No,Yes,No,55,Female,Normal,Low,Negative
+7CQ0K99DQ01,Parkinson's Disease,No,No,Yes,No,55,Female,Normal,Low,Negative
+1AK4W63AD35,Anxiety Disorders,Yes,Yes,No,No,55,Female,Normal,Low,Positive
+3NA6VV9GM08,Coronary Artery Disease,No,No,Yes,No,55,Female,Normal,Normal,Positive
+4C69F81UQ34,Coronary Artery Disease,No,No,Yes,No,55,Female,Normal,Normal,Positive
+1FY6T68AT77,Hemorrhoids,No,No,No,No,55,Female,High,High,Positive
+6D43EK2PM85,Hypertension,Yes,No,Yes,No,55,Male,High,Normal,Positive
+6GA0PD1TU55,Hypothyroidism,No,No,Yes,No,55,Female,High,High,Positive
+9UN9N25TF96,Osteoarthritis,Yes,Yes,No,No,55,Female,High,High,Positive
+4XP4AJ8JT55,Osteoporosis,Yes,No,Yes,Yes,55,Male,High,Low,Positive
+9CD3DK0WX34,Osteoporosis,No,Yes,Yes,No,55,Female,Normal,Normal,Positive
+4QA6MH0WW07,Osteoporosis,Yes,No,Yes,No,55,Female,Normal,Normal,Positive
+6PH4N49PA69,Osteoporosis,Yes,No,Yes,No,55,Female,Normal,Normal,Positive
+8AC6Y61RC32,Polycystic Ovary Syndrome (PCOS),Yes,Yes,No,No,55,Female,Normal,Normal,Positive
+8VP6UY0XT66,Systemic Lupus Erythematosus...,No,Yes,Yes,No,55,Female,High,High,Positive
+6V07WJ5FR45,Typhoid Fever,No,Yes,No,No,55,Male,Normal,Low,Positive
+1U13J41UX43,Typhoid Fever,No,Yes,No,No,55,Male,Normal,Low,Positive
+3CJ8PE5NW03,Influenza,Yes,Yes,Yes,Yes,56,Male,High,High,Positive
+6RY1FE0EX14,Pneumonia,Yes,Yes,No,Yes,57,Male,Normal,High,Negative
+9HR2VY7AY17,Breast Cancer,No,No,Yes,No,60,Male,High,High,Negative
+3K01KE7AM13,Coronary Artery Disease,Yes,Yes,No,No,60,Male,High,High,Negative
+4V02JW3UD55,Coronary Artery Disease,Yes,Yes,No,No,60,Male,High,High,Negative
+7XX5N54GM83,Hyperthyroidism,No,No,Yes,No,60,Male,Normal,Normal,Negative
+4EN4V79UX36,Measles,Yes,Yes,No,No,60,Female,High,Normal,Negative
+9DQ7WX5WD40,Measles,Yes,Yes,No,No,60,Female,High,Normal,Negative
+5CK9EE4VC14,Osteoarthritis,No,Yes,No,Yes,60,Female,Normal,Normal,Negative
+9GU4QA6DP99,Osteomyelitis,No,No,Yes,No,60,Male,Normal,Normal,Negative
+2RC5P36UJ10,Osteoporosis,Yes,No,No,No,60,Male,High,High,Negative
+6X08DC3EE72,Osteoporosis,No,Yes,No,No,60,Male,High,High,Negative
+2QE4CT5RT46,Osteoporosis,No,Yes,No,No,60,Male,High,High,Negative
+1MV5AJ1XA84,Polio,Yes,Yes,Yes,No,60,Male,Normal,Normal,Negative
+9HC0X62VE51,Asthma,Yes,Yes,Yes,Yes,60,Female,High,High,Positive
+4U45FW5ER06,Chronic Kidney Disease,No,No,Yes,No,60,Female,Normal,High,Positive
+9RK6VR9NF01,Hemophilia,No,No,Yes,No,60,Female,Normal,Normal,Positive
+9XU6GT5DG22,Hepatitis B,No,Yes,Yes,No,60,Male,Normal,Low,Positive
+6X21X82MA05,Hepatitis B,No,Yes,Yes,No,60,Male,Normal,Low,Positive
+3FW8FV9EJ44,Hypertension,No,No,Yes,No,60,Female,High,Normal,Positive
+2JW0NM0EM90,Hypertension,Yes,No,Yes,No,60,Male,High,Normal,Positive
+3U00EU6WF25,Hypertension,No,No,No,No,60,Female,High,High,Positive
+1GK6FX8YF42,Kidney Cancer,Yes,Yes,Yes,No,60,Female,High,Normal,Positive
+2DD5X70MA09,Kidney Disease,Yes,Yes,Yes,Yes,60,Female,High,High,Positive
+8VE7KP0JH85,Osteoporosis,Yes,No,Yes,No,60,Male,High,Normal,Positive
+8FC4AP7YK93,Pancreatitis,Yes,Yes,Yes,No,60,Female,High,Normal,Positive
+3GN7NX3HQ56,Parkinson's Disease,Yes,Yes,No,No,60,Male,High,Normal,Positive
+5V30HC0CA18,Parkinson's Disease,Yes,Yes,No,No,60,Male,High,Normal,Positive
+3WW1V22TN45,Prader-Willi Syndrome,No,No,Yes,No,60,Female,Normal,Normal,Positive
+1KM0HJ0WD74,Rheumatoid Arthritis,No,No,Yes,No,60,Female,High,High,Positive
+9RK2GW0AV92,Thyroid Cancer,No,No,Yes,No,60,Female,High,High,Positive
+8CD5RK3KE56,Tuberculosis,Yes,Yes,Yes,No,60,Female,High,High,Positive
+2GN5FK0WW25,Bladder Cancer,No,No,Yes,No,65,Male,Normal,Normal,Negative
+6A29WE0VQ43,Diabetes,No,No,Yes,No,65,Male,Normal,High,Negative
+3H92CC8ME82,Otitis Media (Ear Infection),Yes,Yes,Yes,No,65,Male,Normal,Normal,Negative
+1HF5YV0FX12,Stroke,Yes,No,Yes,No,65,Female,High,Low,Negative
+7YA5M91DD81,Stroke,Yes,No,Yes,No,65,Female,High,Low,Negative
+2PJ5K10VP17,Tourette Syndrome,No,No,Yes,No,65,Male,High,High,Negative
+6RN6AW6DJ51,Urinary Tract Infection (UTI),Yes,No,Yes,No,65,Male,High,Normal,Negative
+6GT5UN0RN26,Alzheimer's Disease,No,Yes,No,No,65,Male,Normal,High,Positive
+6VW7DP1GM28,Alzheimer's Disease,No,Yes,No,No,65,Male,Normal,High,Positive
+5NW8KR7TU92,Alzheimer's Disease,No,No,Yes,No,65,Female,High,High,Positive
+3DM3K80CK46,Bronchitis,Yes,No,Yes,Yes,65,Male,High,High,Positive
+7WT9U07TX90,Chronic Obstructive Pulmonary Disease (COPD),Yes,No,Yes,Yes,65,Female,High,High,Positive
+6NX8NW8GF64,Chronic Obstructive Pulmonary Disease (COPD),Yes,No,Yes,Yes,65,Female,High,High,Positive
+6K37P80DN95,Dementia,No,No,Yes,No,65,Female,High,High,Positive
+2R79V87FG29,Diabetes,Yes,Yes,Yes,No,65,Female,Normal,High,Positive
+6D93ME4GT28,Diverticulitis,No,No,Yes,No,65,Female,High,High,Positive
+7E80NJ4TY92,Liver Cancer,Yes,Yes,Yes,No,65,Female,High,High,Positive
+5XW6YU0GY69,Lung Cancer,Yes,Yes,Yes,No,65,Female,High,High,Positive
+2HW1M64KT77,Lung Cancer,Yes,No,Yes,No,65,Female,Normal,High,Positive
+8N43TC0WE74,Mumps,No,No,Yes,No,65,Male,Normal,High,Positive
+3MN1YF5UC28,Mumps,No,No,Yes,No,65,Male,Normal,High,Positive
+3HY1R27UC86,Osteoporosis,No,Yes,Yes,No,65,Female,High,High,Positive
+1D64C26RK29,Stroke,Yes,Yes,Yes,No,65,Female,High,High,Positive
+4RN9DD1TM65,Alzheimer's Disease,Yes,No,Yes,No,70,Female,High,Normal,Negative
+8YR1Y73WG27,Alzheimer's Disease,Yes,No,Yes,No,70,Female,High,Normal,Negative
+7H82Q27DF78,Cholecystitis,No,No,Yes,No,70,Male,Normal,Normal,Negative
+5XY1H74CD86,Chronic Obstructive Pulmonary Disease (COPD),No,Yes,Yes,Yes,70,Male,Normal,High,Negative
+4XM5C60DJ66,Chronic Obstructive Pulmonary Disease (COPD),No,Yes,Yes,Yes,70,Male,Normal,High,Negative
+9Y21Y11JF18,Osteoporosis,Yes,No,No,No,70,Male,Normal,Normal,Negative
+3G81PD6CM22,Parkinson's Disease,No,No,Yes,No,70,Male,Normal,Normal,Negative
+3J78Q73MD78,Prostate Cancer,Yes,Yes,No,No,70,Male,High,Normal,Negative
+3UC7T34KQ73,Schizophrenia,No,Yes,Yes,No,70,Male,Normal,Normal,Negative
+4M26DD3YE08,Gout,Yes,No,Yes,No,70,Female,Normal,High,Positive
+8JT8AR6KQ95,Migraine,No,No,Yes,No,70,Female,Normal,Normal,Positive
+8CA7Q34UD10,Stroke,No,Yes,No,No,70,Male,Normal,High,Positive
+4W65RE6UG89,Stroke,No,Yes,No,No,70,Male,Normal,High,Positive
+3DM8Q68UW98,Testicular Cancer,No,No,Yes,No,70,Female,High,High,Positive
+8H41TF0UC79,Tonsillitis,Yes,Yes,Yes,No,70,Female,High,High,Positive
+7R02EU5QD12,Williams Syndrome,No,No,Yes,No,70,Female,Normal,Normal,Positive
+3Q01MV3DV62,Stroke,Yes,No,Yes,No,80,Female,High,High,Positive
+5X76XR6UG88,Stroke,Yes,No,Yes,No,80,Female,High,High,Positive
+1TE3KX3VH72,Stroke,Yes,No,Yes,No,85,Male,High,High,Positive
+1N85V58UU13,Stroke,Yes,No,Yes,No,85,Male,High,High,Positive
+4K94Q40VC22,Stroke,Yes,No,Yes,No,90,Female,High,High,Positive
+4AK1EX4ME20,Stroke,Yes,No,Yes,No,90,Female,High,High,Positive
